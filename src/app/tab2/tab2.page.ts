@@ -9,4 +9,8 @@ export class Tab2Page {
 
   constructor() {}
 
+  saveTenantData(){
+    alert("Details Saved")
+  }
+
 }
